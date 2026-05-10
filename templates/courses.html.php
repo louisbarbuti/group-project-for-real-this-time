@@ -11,7 +11,7 @@
     </div>
         <h2 class="title" style="color: blue;">Favourite Courses</h2>
         <div class="courses">
-            <p>Courses Go Here</p>
+            <li><a href="module.php">Software Engineering</a></li>
         </div>
 
         <h2 class="title" style="color: blue;">Course Year</h2>
